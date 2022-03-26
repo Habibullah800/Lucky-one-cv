@@ -1,18 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import Books from './Component/Books/Books';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit hello <code>src/App.js</code> and save to reload.
-        </p>
 
+    <div>
+      <h1>hello</h1>
+      <Books></Books>
+    </div>
 
-      </header>
-    </div >
   );
 }
 
