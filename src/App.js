@@ -1,12 +1,14 @@
 import './App.css';
-import Books from './Component/Books/Books';
+import Shop from './Component/Shop/Shop';
 
 function App() {
   return (
 
     <div>
-      <h1>hello</h1>
-      <Books></Books>
+
+
+      <Shop></Shop>
+
     </div>
 
   );
