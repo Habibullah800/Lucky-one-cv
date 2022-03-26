@@ -11,8 +11,6 @@ const BonusQues = () => {
             <h4>
                 Ques: How UseState work?<br></br>
                 UseState  is a Hook that allows state variables in functional components. It Imported from the react package. It allows adding state to a functional component.
-
-
             </h4>
             <h4>
                 Ques: Props vs State?<br></br>

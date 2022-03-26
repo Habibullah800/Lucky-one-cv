@@ -6,7 +6,6 @@ const Product = (props) => {
 
     return (
         <div className='product'>
-
             <img src={pic} alt=""></img>
             <div className='product-info'>
                 <h3>Product name: {Name}</h3>
@@ -17,8 +16,6 @@ const Product = (props) => {
                 className='btn'>
                 <p> Add to cart </p>
             </button>
-
-
         </div >
     );
 };
