@@ -1,0 +1,14 @@
+.answer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 5px;
+    margin: 5px;
+    
+}
+.answer h4{
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 8px;
+    padding-bottom: 30px;
+
+}
