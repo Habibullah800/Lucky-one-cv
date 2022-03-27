@@ -17,7 +17,6 @@ const BonusQues = () => {
                 Props are used to pass data from one component to another.
                 The state is a local data storage that is local to the component only and cannot be passed to other components. props are variables passed to it by its parent component. State on the other hand is still a variable, but directly initialized and managed by the component.
             </h4>
-
         </div>
     );
 };

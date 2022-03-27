@@ -3,60 +3,70 @@
         "ID": 1203867,
         "Name": "high heel shoes",
         "Price": 83,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/high-heel-shoes_1203-8671.jpg?w=740&t=st=1648277862~exp=1648278462~hmac=c8d4ace776975b17af6d7cb21b0f98d67ceb040d811a2bf5f1a1b5582203a41e"
     },
     {
         "ID": 8353691,
         "Name": "Mens Charged leather Running Shoe",
         "Price": 63,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/red-leather-shoes-stand-light-wooden-floor_8353-691.jpg?w=740&t=st=1648277794~exp=1648278394~hmac=028dd37d3865d9fbb24947f1d79adf829aeeccaeeae0042a46f8b44317b1417d"
     },
     {
         "ID": 5387610,
         "Name": "Women fashion white high heel",
         "Price": 69,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/women-rsquo-s-white-high-heel-shoes-fashion_53876-106046.jpg?w=740&t=st=1648277810~exp=1648278410~hmac=f4de35427204c6a2de05fda85795c5f4c66b27b90bbbfa262e08c08d278651d8"
     },
     {
         "ID": 1203817,
         "Name": "Men's brown leather shoes",
         "Price": 67,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/brown-leather-shoes_1203-8174.jpg?w=740&t=st=1648277908~exp=1648278508~hmac=f35aed7312747b6be7c41195a8c906653752d9cf3e52209243d5a15fc7152961"
     },
     {
         "ID": 5387611,
         "Name": "Women elegant red high heel",
         "Price": 68,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/women-s-elegant-red-high-heel-shoes-with-glitter-formal-fashion_53876-106017.jpg?w=740&t=st=1648277827~exp=1648278427~hmac=638e864170c629d2d9f8ceaf06e461768da8b5571698fd6a3513f931aabe336f"
     },
     {
         "ID": 1648278,
         "Name": "Brown leather slip men shoes",
         "Price": 73,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/brown-leather-slip-men-s-shoes-fashion_53876-101530.jpg?w=826&t=st=1648277920~exp=1648278520~hmac=0caa9cf66c989df06b880393d64d25a3ee4c1c825fcd7fc627c57a02d2c1f8f0"
     },
     {
         "ID": 8277926,
         "Name": "Luxury woman golden heeled",
         "Price": 86,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/luxury-fashion-woman-accessories-golden-heeled-shoes-little-evening-purse-elegant-style-vintage-style-sandals-footwear_285396-7244.jpg?w=740&t=st=1648277926~exp=1648278526~hmac=62e10644be8a7088f7bbbac4be11f757232bc14c9d913ee00ef71a4fa9f4a4fb"
     },
     {
         "ID": 1203756,
         "Name": "luxury man Leather shoes",
         "Price": 67,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/brown-leather-shoes_1203-7562.jpg?w=740&t=st=1648277797~exp=1648278397~hmac=17df32a557dd7da39903762607d3b5057a185c1c6830d644a47191e7887bb778"
     },
     {
         "ID": 5387613,
         "Name": "Women red high heel fashion",
         "Price": 79,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/women-s-red-high-heel-shoes-formal-fashion_53876-103574.jpg?w=740&t=st=1648277818~exp=1648278418~hmac=c79e07ced19cd5375fb2f2b8fd836dfa81333667a91a36785b65c469a322b934"
     },
     {
         "ID": 1203814,
         "Name": "Fashion leather boots",
         "Price": 73,
+        "QTY": 1,
         "pic": "https://img.freepik.com/free-photo/leather-boots_1203-8142.jpg?w=740&t=st=1648277922~exp=1648278522~hmac=d953ac11024d862f6909a664b93956cfb8855bedf127dbd5b317bf8befa4391a"
     }
 ]

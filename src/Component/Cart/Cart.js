@@ -11,7 +11,7 @@ const Cart = ({ cart }) => {
                 {
                     cart.map(item => <CartItem
                         key={item.Price}
-                        item={item.Name}
+                        item={item}
                     ></CartItem>
                     )
                 }
